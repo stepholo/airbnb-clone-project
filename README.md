@@ -9,35 +9,35 @@ It involves a deep dive into full-stack development, focusing on backend systems
 This project enables learners to understand complex architectures, workflows, and collaborative team dynamics while building a scalable web application.
 
 ### 🏆 Project Goals
-	- User Management - Implement a secure system for user registration, authentication, and profile management.
-	- Property Management - Develop features for property listing creation, updates, and retrieval.
-	- Booking System - Create a booking mechanism for users to reserve properties and manage booking details.
-	- Payment Processing - Integrate a payment system to handle transactions and record payment details.
-	- Review System - Allow users to leave reviews and ratings for properties.
-	- Data Optimization - Ensure efficient data retrieval and storage through database optimizations.
+ - User Management - Implement a secure system for user registration, authentication, and profile management.
+ - Property Management - Develop features for property listing creation, updates, and retrieval.
+ - Booking System - Create a booking mechanism for users to reserve properties and manage booking details.
+ - Payment Processing - Integrate a payment system to handle transactions and record payment details.
+ - Review System - Allow users to leave reviews and ratings for properties.
+ - Data Optimization - Ensure efficient data retrieval and storage through database optimizations.
 
 ## 👥 Team Roles
-	1. Software Developer: Engineers and stabilizers the product - Backend and Frontend engineers.
-	2. Database Administrator: Manages database design, indexing, and optimizations.
-	3. DevOps Engineer: Handles deployment, monitoring, and scaling of the backend services.
-	4. QA Engineer: Ensures the backend functionalities are thoroughly tested and meet quality standards.
-	5. Business Analyst: They translate an abstract product idea into a set of tangible requirements.
-	6. Product Owner: Owns responsibility for product vision and evolution
-	7. Product Manager: Ensures a product is delivered with the set time and budget
-	8. UI/UX Designer: Transforms a product into a user friendly design
-	9. Software Architecture: Develops the software architecture, select appropriate tools and platforms for implementation
-	10. Quality Assurance Engineer: Ensures an application works according to requerements and sports the defects in the App
-	11. Test Automation Engineer: Designs a test automation system
+ 1. Software Developer: Engineers and stabilizers the product - Backend and Frontend engineers.
+ 2. Database Administrator: Manages database design, indexing, and optimizations.
+ 3. DevOps Engineer: Handles deployment, monitoring, and scaling of the backend services.
+ 4. QA Engineer: Ensures the backend functionalities are thoroughly tested and meet quality standards.
+ 5. Business Analyst: They translate an abstract product idea into a set of tangible requirements.
+ 6. Product Owner: Owns responsibility for product vision and evolution
+ 7. Product Manager: Ensures a product is delivered with the set time and budget
+ 8. UI/UX Designer: Transforms a product into a user friendly design
+ 9. Software Architecture: Develops the software architecture, select appropriate tools and platforms for implementation
+ 10. Quality Assurance Engineer: Ensures an application works according to requerements and sports the defects in the App
+ 11. Test Automation Engineer: Designs a test automation system
 
-##   Project Tech Stack
-        1. Django: A high-level Python web framework used for building the RESTful API.
-        2. Django REST Framework: Provides tools for creating and managing RESTful APIs.
-        3. PostgreSQL: A powerful relational database used for data storage.
-        4. GraphQL: Allows for flexible and efficient querying of data.
-        5. Celery: For handling asynchronous tasks such as sending notifications or processing payments.
-        6. Redis: Used for caching and session management.
-        7. Docker: Containerization tool for consistent development and deployment environments.
-        8. CI/CD Pipelines: Automated pipelines for testing and deploying code changes.
+## ⚙️ Technology Stack
+ 1. Django: A high-level Python web framework used for building the RESTful API.
+ 2. Django REST Framework: Provides tools for creating and managing RESTful APIs.
+ 3. PostgreSQL: A powerful relational database used for data storage.
+ 4. GraphQL: Allows for flexible and efficient querying of data.
+ 5. Celery: For handling asynchronous tasks such as sending notifications or processing payments.
+ 6. Redis: Used for caching and session management.
+ 7. Docker: Containerization tool for consistent development and deployment environments.
+ 8. CI/CD Pipelines: Automated pipelines for testing and deploying code changes.
 
 ## 🌵 Database Design
 
